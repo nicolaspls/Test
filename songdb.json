@@ -1,0 +1,18 @@
+[
+  {
+    "id": "IAmTheBestALT",
+    "artist": "2NE1",
+    "title": "I Am The Best [ EXTREME VERSION ]",
+    "video": {
+      "isHls": false,
+      "preview": "https://sneakpeak.justdancenow.com/iamthebestalt_e58f0ac0b6b304da7e5d0b19ac400a994cee3949.mp4",
+      "path": "https://mp4.justdancenow.com/iamthebestalt_e58f0ac0b6b304da7e5d0b19ac400a994cee3949_576p.mp4?hlscookie=st=1702623602~exp=1703919602~acl=/iamthebestalt_e58f0ac0b6b304da7e5d0b19ac400a994cee3949_576p.mp4~hmac=613e1244408bf676ac8339aeddddfec3af9b4560a78825ff0748864bcbbebcd7"
+    },
+    "previewOffset": 90500,
+    "assets": {
+      "cover": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IAmTheBestALT_1594383583819/assets/app/iamthebestalt_cover.jpg",
+      "banner": "https://jdnow-api-contentapistoragest.justdancenow.com/map_bkg/IAmTheBestALT_map_bkg.jpg"
+    },
+    "json": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IAmTheBestALT_1594383583819/IAmTheBestALT.json"
+  }
+]
